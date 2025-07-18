@@ -1,5 +1,5 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
-![Adibayu Luthfiansyah](/Adibayuluthfiansyah/img/github-header-image.png)
+![Adibayu Luthfiansyah](img/github-header-image.png)
 
 <!--
 **Adibayuluthfiansyah/Adibayuluthfiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
