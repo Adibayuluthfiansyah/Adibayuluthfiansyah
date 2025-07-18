@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently learning Next JS Framework 
+- 🔭 I’m currently learning [**NextJS **]Framework 
