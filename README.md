@@ -1,10 +1,12 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
-![Adibayu Luthfiansyah](img/github-header-image.png)
+![Header](img/github-header-image.png)
+
 
 <!--
 **Adibayuluthfiansyah/Adibayuluthfiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[Adibayu Luthfiansyah](img/github-header-image.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
