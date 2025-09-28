@@ -56,10 +56,11 @@ Backend API for e-commerce application
 
 ## 🤝 Connect with Me
 
-<div align="center">
+<div align="left">
   
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adibayuluthfiansyah) -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adibayuluthfiansyah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibayuluthfiansyah@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adibayuluthfiansyah@gmail.com)
 
 </div>
 
