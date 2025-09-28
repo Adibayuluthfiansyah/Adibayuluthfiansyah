@@ -13,7 +13,7 @@ Movie discovery application with Netflix-like styling theme
   
 ### 🏢 [PT IREN](https://github.com/Adibayuluthfiansyah/PT_IREN)
 Modern corporate website frontend with responsive design
-- **Tech Stack:** TypeScript, Next.js, CSS
+- **Tech Stack:** TypeScript, Next.js, Tailwind
 - **Features:** Corporate landing page, responsive design, modern UI components
 - **Focus:** Frontend development with clean and professional interface
 
@@ -54,6 +54,15 @@ Backend API for e-commerce application
   <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
 </div>
 
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adibayuluthfiansyah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibayuluthfiansyah@gmail.com)
+
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adibayuluthfiansyah/Adibayuluthfiansyah/output/github-contribution-grid-snake-dark.svg">
@@ -62,9 +71,9 @@ Backend API for e-commerce application
   </picture>
 </div>
 
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adibayuluthfiansyah&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+</div>
 
 
 <!--
