@@ -1,5 +1,7 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
-sdgjdajajjaoojjopp
+Thanks for visiting my GitHub profile! I firmly believe that exceptional code it should tackle genuine problems and generate meaningful impact.
+I'm driven by the vision of creating software that enhances communities and accelerates business success.
+Take a look around to see my ongoing adventure in the world of software development.
 
 
 <div align="center">
