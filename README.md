@@ -39,10 +39,6 @@ Frontend aplikasi e-commerce yang responsif
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adibayuluthfiansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adibayuluthfiansyah/Adibayuluthfiansyah/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adibayuluthfiansyah/Adibayuluthfiansyah/output/github-contribution-grid-snake.svg">
