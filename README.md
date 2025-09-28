@@ -3,6 +3,12 @@ Thanks for visiting my GitHub profile! I firmly believe that exceptional code it
 I'm driven by the vision of creating software that enhances communities and accelerates business success.
 Take a look around to see my ongoing adventure in the world of software development.
 
+## 🏆 Featured Projects
+### 🌐 [E-commerce Frontend](https://github.com/Adibayuluthfiansyah/frontend_ecommerce)
+Frontend aplikasi e-commerce yang responsif
+- **Tech Stack:** TypeScript, React/Next.js
+- **Features:** Modern UI/UX, Shopping Cart, User Dashboard
+
 
 <div align="center">
   <picture>
