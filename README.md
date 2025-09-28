@@ -72,7 +72,7 @@ Backend API for e-commerce application
   </picture>
 </div>
 
-<div align="center">
+<div align="center padding-top : 4">
   <img src="https://komarev.com/ghpvc/?username=Adibayuluthfiansyah&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 </div>
 
