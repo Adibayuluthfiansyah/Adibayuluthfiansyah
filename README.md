@@ -33,7 +33,7 @@ Frontend aplikasi e-commerce yang responsif
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
 </div>
 
