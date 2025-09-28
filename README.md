@@ -31,6 +31,17 @@ Frontend aplikasi e-commerce yang responsif
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adibayuluthfiansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adibayuluthfiansyah/Adibayuluthfiansyah/output/github-contribution-grid-snake-dark.svg">
