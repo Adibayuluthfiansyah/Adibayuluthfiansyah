@@ -1,9 +1,6 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
     Welcome To My Github Profile
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+NextJS+Framework;Always+learning+new+things" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <picture>
