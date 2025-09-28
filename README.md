@@ -1,14 +1,31 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
-Thanks for visiting my GitHub profile! I firmly believe that exceptional code it should tackle genuine problems and generate meaningful impact.
+Thanks for visiting my GitHub profile! I'm currently studying Informatics Engineering at Universitas Muhammadiyah Pontianak, and I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact.
 I'm driven by the vision of creating software that enhances communities and accelerates business success.
 Take a look around to see my ongoing adventure in the world of software development.
 
 ## 🏆 Featured Projects
+
+### 🎬 [Movie API](https://github.com/Adibayuluthfiansyah/movie_api)
+Movie discovery application with Netflix-like styling theme
+- **Tech Stack:** Next.js, TypeScript, TMDB API
+- **Features:** Movie search, detailed movie information, responsive Netflix-inspired UI
+- **Highlights:** Integrated with The Movie Database (TMDB) API for real-time movie data
+  
+### 🏢 [PT IREN](https://github.com/Adibayuluthfiansyah/PT_IREN)
+Modern corporate website frontend with responsive design
+- **Tech Stack:** TypeScript, Next.js, CSS
+- **Features:** Corporate landing page, responsive design, modern UI components
+- **Focus:** Frontend development with clean and professional interface
+
 ### 🌐 [E-commerce Frontend](https://github.com/Adibayuluthfiansyah/frontend_ecommerce)
-Frontend aplikasi e-commerce yang responsif
+Responsive e-commerce application frontend
 - **Tech Stack:** TypeScript, React/Next.js
 - **Features:** Modern UI/UX, Shopping Cart, User Dashboard
 
+### 🛒 [E-commerce Backend](https://github.com/Adibayuluthfiansyah/backend_ecommerce)
+Backend API for e-commerce application
+- **Tech Stack:** TypeScript, Laravel, PHP
+- **Features:** Authentication, Product Management, Order Processing
 
 
 ## 🛠️ Tech Stack
