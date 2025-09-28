@@ -1,5 +1,10 @@
 ## Hi there I'm Adibayu Luthfiansyah👋
-![Header](img/github-header-image2.png)
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adibayuluthfiansyah&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
 
 <!--
@@ -19,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently learning [**NextJS**] Framework 
+<!-- - 🔭 I’m currently learning [**NextJS**] Framework  -->
