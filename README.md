@@ -48,11 +48,6 @@ Backend API for e-commerce application
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-</div>
 
 ## 🤝 Connect with Me
 
