@@ -1,34 +1,38 @@
-## 👋 Hi there I'm Adibayu Luthfiansyah
+## Hi there I'm Adibayu Luthfiansyah
 Thanks for visiting my GitHub profile! I'm currently studying Informatics Engineering at Universitas Muhammadiyah Pontianak, and I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact.
 I'm driven by the vision of creating software that enhances communities and accelerates business success.
 Take a look around to see my ongoing adventure in the world of software development.
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎬 [Movie API](https://github.com/Adibayuluthfiansyah/movie_api)
+
+### [Invoice SaaS](https://github.com/Adibayuluthfiansyah/invoice-saas)
+**Full-stack Invoice Management Platform with Payment Gateway**
+* **Tech Stack:** Next.js 15, TypeScript, Prisma, Supabase, Midtrans, Docker
+* **Features:** Secure Auth, Dashboard Analytics, PDF Invoice Generation, Real-time Payment (Midtrans), Email Reminders.
+* **Highlights:** A production-ready SaaS architecture using modern tooling and containerization.
+
+### [Movie API](https://github.com/Adibayuluthfiansyah/movie_api)
 Movie discovery application with Netflix-like styling theme
 - **Tech Stack:** Next.js, TypeScript, TMDB API
 - **Features:** Movie search, detailed movie information, responsive Netflix-inspired UI
 - **Highlights:** Integrated with The Movie Database (TMDB) API for real-time movie data
   
-### 🏢 [PT IREN](https://github.com/Adibayuluthfiansyah/PT_IREN)
+### [PT IREN](https://github.com/Adibayuluthfiansyah/PT_IREN)
 Modern corporate website frontend with responsive design
 - **Tech Stack:** TypeScript, Next.js, Tailwind
 - **Features:** Corporate landing page, responsive design, modern UI components
 - **Focus:** Frontend development with clean and professional interface
+- 
+### [E-commerce App](https://github.com/Adibayuluthfiansyah/frontend_ecommerce)
+**Full-stack E-commerce Solution**
+* **Frontend:** [Repo Link](https://github.com/Adibayuluthfiansyah/frontend_ecommerce) (React/Next.js, TypeScript) - Modern UI/UX, Shopping Cart.
+* **Backend:** [Repo Link](https://github.com/Adibayuluthfiansyah/backend_ecommerce) (Laravel, PHP) - Auth, Product Management, Order Processing.
 
-### 🌐 [E-commerce Frontend](https://github.com/Adibayuluthfiansyah/frontend_ecommerce)
-Responsive e-commerce application frontend
-- **Tech Stack:** TypeScript, React/Next.js
-- **Features:** Modern UI/UX, Shopping Cart, User Dashboard
-
-### 🛒 [E-commerce Backend](https://github.com/Adibayuluthfiansyah/backend_ecommerce)
-Backend API for e-commerce application
-- **Tech Stack:** TypeScript, Laravel, PHP
-- **Features:** Authentication, Product Management, Order Processing
+---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,12 +48,13 @@ Backend API for e-commerce application
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="left">
   
