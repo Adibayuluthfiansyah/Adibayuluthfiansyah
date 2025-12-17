@@ -1,10 +1,16 @@
 ## Hi there I'm Adibayu Luthfiansyah
-Thanks for visiting my GitHub profile! I'm currently studying Informatics Engineering at Universitas Muhammadiyah Pontianak, and I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact.
-I'm driven by the vision of creating software that enhances communities and accelerates business success.
+Thanks for visiting my GitHub profile!I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact. I'm driven by the vision of creating software that enhances communities and accelerates business success.
 Take a look around to see my ongoing adventure in the world of software development.
+Lately, I've been diving deep into **Web3** and blockchain technologies to expand my skillset. Take a look around to see my ongoing adventure in the world of software development.
+
+
+### 🤝 Freelance & Collaboration
+I am currently **open for freelance jobs and collaborations**. Whether you need a full-stack web application, a modern frontend interface, or want to build something in the Web3 space, feel free to reach out!
+
+---
+
 
 ## Featured Projects
-
 
 ### [Invoice SaaS](https://github.com/Adibayuluthfiansyah/invoice-saas)
 **Full-stack Invoice Management Platform with Payment Gateway**
@@ -30,7 +36,6 @@ Modern corporate website frontend with responsive design
 * **Backend:** [Repo Link](https://github.com/Adibayuluthfiansyah/backend_ecommerce) (Laravel, PHP) - Auth, Product Management, Order Processing.
 
 ---
-
 
 ## Tech Stack
 ### Frontend
