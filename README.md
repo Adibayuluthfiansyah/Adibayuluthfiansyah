@@ -24,17 +24,7 @@ Movie discovery application with Netflix-like styling theme
 - **Tech Stack:** Next.js, TypeScript, TMDB API
 - **Features:** Movie search, detailed movie information, responsive Netflix-inspired UI
 - **Highlights:** Integrated with The Movie Database (TMDB) API for real-time movie data
-  
-### [PT IREN](https://github.com/Adibayuluthfiansyah/PT_IREN)
-Modern corporate website frontend with responsive design
-- **Tech Stack:** TypeScript, Next.js, Tailwind
-- **Features:** Corporate landing page, responsive design, modern UI components
-- **Focus:** Frontend development with clean and professional interface
-- 
-### [E-commerce App](https://github.com/Adibayuluthfiansyah/frontend_ecommerce)
-**Full-stack E-commerce Solution**
-* **Frontend:** [Repo Link](https://github.com/Adibayuluthfiansyah/frontend_ecommerce) (React/Next.js, TypeScript) - Modern UI/UX, Shopping Cart.
-* **Backend:** [Repo Link](https://github.com/Adibayuluthfiansyah/backend_ecommerce) (Laravel, PHP) - Auth, Product Management, Order Processing.
+
 
 ---
 
