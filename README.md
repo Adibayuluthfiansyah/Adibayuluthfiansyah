@@ -3,6 +3,7 @@ Thanks for visiting my GitHub profile!I firmly believe that exceptional code sho
 Take a look around to see my ongoing adventure in the world of software development.
 Lately, I've been diving deep into **Web3** and blockchain technologies to expand my skillset. Take a look around to see my ongoing adventure in the world of software development.
 
+--- 
 
 ### 🤝 Freelance & Collaboration
 I am currently **open for freelance jobs and collaborations**. Whether you need a full-stack web application, a modern frontend interface, or want to build something in the Web3 space, feel free to reach out!
