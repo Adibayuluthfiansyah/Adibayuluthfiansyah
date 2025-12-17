@@ -50,7 +50,18 @@ Movie discovery application with Netflix-like styling theme
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adibayu's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adibayuluthfiansyah&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
+
+---
 
 ##  Connect with Me
 
