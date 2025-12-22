@@ -1,7 +1,7 @@
 ## Hi there I'm Adibayu Luthfiansyah
 Thanks for visiting my GitHub profile! I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact. I'm driven by the vision of creating software that enhances communities and accelerates business success.
 Take a look around to see my ongoing adventure in the world of software development.
-Lately, I've been diving deep into **Web3** and blockchain technologies to expand my skillset. Take a look around to see my ongoing adventure in the world of software development.
+Lately, I've been diving deeper into **Web3 development**, focusing on **Solidity smart contracts** and blockchain fundamentals while maintaining strong Web2 engineering practices. Take a look around to see my ongoing adventure in the world of software development.
 
 --- 
 
@@ -44,6 +44,12 @@ Movie discovery application with Netflix-like styling theme
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ### Tools & Others
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
