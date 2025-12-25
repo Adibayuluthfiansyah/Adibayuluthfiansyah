@@ -59,8 +59,8 @@ Movie discovery application with Netflix-like styling theme
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adibayu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
