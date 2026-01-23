@@ -11,23 +11,6 @@ I am currently **open for freelance jobs and collaborations**. Whether you need 
 ---
 
 
-## Featured Projects
-
-### [Invoice SaaS](https://github.com/Adibayuluthfiansyah/invoice-saas)
-**Full-stack Invoice Management Platform with Payment Gateway**
-* **Tech Stack:** Next.js 15, TypeScript, Prisma, Supabase, Midtrans, Docker
-* **Features:** Secure Auth, Dashboard Analytics, PDF Invoice Generation, Real-time Payment (Midtrans), Email Reminders.
-* **Highlights:** A production-ready SaaS architecture using modern tooling and containerization.
-
-### [Movie API](https://github.com/Adibayuluthfiansyah/movie_api)
-Movie discovery application with Netflix-like styling theme
-- **Tech Stack:** Next.js, TypeScript, TMDB API
-- **Features:** Movie search, detailed movie information, responsive Netflix-inspired UI
-- **Highlights:** Integrated with The Movie Database (TMDB) API for real-time movie data
-
-
----
-
 ## Tech Stack
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
