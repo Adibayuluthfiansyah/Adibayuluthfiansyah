@@ -41,13 +41,6 @@ I am currently **open for freelance jobs and collaborations**. Whether you need 
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ##  Connect with Me
 
 <div align="left">
@@ -57,10 +50,15 @@ I am currently **open for freelance jobs and collaborations**. Whether you need 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=adibayuluthfiansyah@gmail.com)
 </div>
 
-
-<div align="center " style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Adibayuluthfiansyah&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+<div align="center">
+    <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+
+
 
 
 <!--
