@@ -1,5 +1,5 @@
 ## Hi there I'm Adibayu Luthfiansyah
-Thanks for visiting my GitHub profile! a passionate Full Stack Developer. I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact. I'm driven by the vision of creating software that enhances communities and accelerates business success.
+Thanks for visiting my GitHub profile! I’m a passionate Full Stack Developer who firmly believes that exceptional code should tackle real-world problems and create meaningful impact. I’m driven by the vision of building software that enhances communities and accelerates business success.
 > I believe good software is not just about working code, but about solving real problems effectively.
 
 --- 
