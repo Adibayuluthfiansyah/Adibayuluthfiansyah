@@ -1,12 +1,11 @@
 ## Hi there I'm Adibayu Luthfiansyah
-Thanks for visiting my GitHub profile! I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact. I'm driven by the vision of creating software that enhances communities and accelerates business success.
-Take a look around to see my ongoing adventure in the world of software development.
-Lately, I've been diving deeper into **Web3 development**, focusing on **Solidity smart contracts** and blockchain fundamentals while maintaining strong Web2 engineering practices. Take a look around to see my ongoing adventure in the world of software development.
+Thanks for visiting my GitHub profile! a passionate Full Stack Developer. I firmly believe that exceptional code should tackle genuine problems and generate meaningful impact. I'm driven by the vision of creating software that enhances communities and accelerates business success.
+> I believe good software is not just about working code, but about solving real problems effectively.
 
 --- 
 
 ### Freelance & Collaboration
-I am currently **open for freelance jobs and collaborations**. Whether you need a full-stack web application, a modern frontend interface, or want to build something in the Web3 space, feel free to reach out!
+I’m currently **open for freelance work and collaborations**. Feel free to reach out!
 
 ---
 
@@ -21,17 +20,20 @@ I am currently **open for freelance jobs and collaborations**. Whether you need 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Backend & API
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Web3 & Blockchain
+
+### Web3 (Learning & Exploring)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+> Currently learning smart contract development, blockchain fundamentals, and Web3 tooling through small experimental projects.
 
 
 ### Tools & Others
@@ -50,12 +52,14 @@ I am currently **open for freelance jobs and collaborations**. Whether you need 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=adibayuluthfiansyah@gmail.com)
 </div>
 
+---
+
 <div align="center">
     <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+
 
 
 
