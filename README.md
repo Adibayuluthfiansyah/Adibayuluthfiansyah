@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
 ## About Me
 
 - I'm from Indonesia.
-- Full Stack Developer with a focus on **Frontend** development.
+- Full Stack Developer with a focus on both **Frontend** and **Backend** development.
 - Currently learning **Web3 & Smart Contract** development.
 - Open for **freelance work** and **collaborations**.
 - Reach me at [adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com) or visit [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
