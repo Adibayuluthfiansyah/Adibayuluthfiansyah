@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm Adibayu Luthfiansyah 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Adibayu%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 I'm a passionate **Full Stack Developer** who believes that exceptional code should tackle real-world problems and create meaningful impact. I'm driven by the vision of building software that enhances communities and accelerates business success.
 
@@ -12,13 +12,13 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
 
 ---
 
-## Connect with Me
+## About Me
 
 - I'm from Indonesia.
-- You can find me on Instagram ([@adibayuluthfiansyah](https://instagram.com/adibayuluthfiansyah)).
-- Or reach me by email ([adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com)).
-- My Website: [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
+- Full Stack Developer with a focus on **Frontend** development.
+- Currently learning **Web3 & Smart Contract** development.
 - Open for **freelance work** and **collaborations**.
+- Reach me at [adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com) or visit [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
 
 ---
 
@@ -49,6 +49,15 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
   <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+---
+
+## Connect with Me
+
+- You can find me on Instagram ([@adibayuluthfiansyah](https://instagram.com/adibayuluthfiansyah)).
+- Or reach me by email ([adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com)).
+- My Website: [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 
 <!--
