@@ -11,29 +11,9 @@ I’m currently **open for freelance work and collaborations**. Feel free to rea
 
 
 ## Tech Stack
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-
-### Web3 (Learning & Exploring)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-> Currently learning smart contract development, blockchain fundamentals, and Web3 tooling through small experimental projects.
+<p> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> 
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" /> <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+ <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity" /> <img <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />  </p>
 
 
 ### Tools & Others
