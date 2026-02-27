@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack Developer** who believes that exceptional code should tackle real-world problems and create meaningful impact. I'm driven by the vision of building software that enhances communities and accelerates business success.
 
-> _"Good software is not just about working code, but about solving real problems effectively."_
+> *"Good software is not just about working code, but about solving real problems effectively."*
 
 **Open for freelance work and collaborations — feel free to reach out!**
 
@@ -12,34 +12,42 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
 
 ---
 
+## Connect with Me
 
-## Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> 
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" /> <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
- <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity" /> <img <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />  </p>
-
+- I'm from Indonesia.
+- You can find me on Instagram ([@adibayuluthfiansyah](https://instagram.com/adibayuluthfiansyah)).
+- Or reach me by email ([adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com)).
+- My Website: [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
+- Open for **freelance work** and **collaborations**.
 
 ---
 
-##  Connect with Me
+## Tech Stack
 
-<div align="left">
-  
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adibayuluthfiansyah) -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adibayuluthfiansyah)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=adibayuluthfiansyah@gmail.com)
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+</p>
+
 
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-
-
-
 
 
 
