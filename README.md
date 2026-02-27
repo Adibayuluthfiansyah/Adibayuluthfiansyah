@@ -1,4 +1,14 @@
-# Hey! I'm Adibayu Luthfiansyah 👋 I'm a passionate **Full Stack Developer** who believes that exceptional code should tackle real-world problems and create meaningful impact. I'm driven by the vision of building software that enhances communities and accelerates business success. > _"Good software is not just about working code, but about solving real problems effectively."_ **Open for freelance work and collaborations — feel free to reach out!**
+<div align="center">
+
+# Hey! I'm Adibayu Luthfiansyah 👋
+
+I'm a passionate **Full Stack Developer** who believes that exceptional code should tackle real-world problems and create meaningful impact. I'm driven by the vision of building software that enhances communities and accelerates business success.
+
+> _"Good software is not just about working code, but about solving real problems effectively."_
+
+**Open for freelance work and collaborations — feel free to reach out!**
+
+</div>
 
 ---
 
