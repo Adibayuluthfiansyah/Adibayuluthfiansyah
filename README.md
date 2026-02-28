@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Adibayu%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,30,60&height=180&section=header&text=Hey!%20I'm%20Adibayu%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32)
 
 I'm a passionate **Full Stack Developer** who believes that exceptional code should tackle real-world problems and create meaningful impact. I'm driven by the vision of building software that enhances communities and accelerates business success.
 
@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
 - Or reach me by email ([adibayu@adibayuluthfiansyah.dev](mailto:adibayuluthfiansyah@gmail.com)).
 - My Website: [adibayuluthfiansyah.dev](https://www.adibayuluthfiansyah.dev/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,30,60&height=100&section=footer&animation=fadeIn)
 
 
 <!--
