@@ -27,6 +27,7 @@ I'm a passionate **Full Stack Developer** who believes that exceptional code sho
 <p>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
