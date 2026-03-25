@@ -63,7 +63,7 @@ https://github.com/Adibayuluthfiansyah/RAWVE-LiveStream-Backend
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=Adibayuluthfiansyah&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 </div>
 
