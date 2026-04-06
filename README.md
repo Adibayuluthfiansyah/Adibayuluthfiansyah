@@ -61,16 +61,6 @@ https://github.com/Adibayuluthfiansyah/RAWVE-LiveStream-Backend
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adibayuluthfiansyah&theme=tokyonight" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adibayuluthfiansyah&theme=tokyo-night"/>
 
 </div>
