@@ -20,7 +20,6 @@ I'm a developer focused on building **scalable and impactful applications** - no
 
 - Based in Indonesia  
 - Focus on Full Stack Development  
-- Building backend systems with Go & Node.js  
 - Currently learning AI-assisted development workflows  
 - Open for freelance projects & collaborations  
 
