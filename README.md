@@ -35,17 +35,6 @@ I'm a developer focused on building **scalable and impactful applications** - no
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Adibayuluthfiansyah&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&theme=tokyonight" />
-
-
-</div>
-
 ##  Featured Project
 
 ###  RAWVE - Live Streaming Platform
