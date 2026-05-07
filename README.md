@@ -5,9 +5,9 @@
 <p><b>Full Stack Developer</b> • Building scalable systems & real-world products</p>
 
 <p>
-  <a href="https://www.adibayuluthfiansyah.dev">🌐 Website</a> •
-  <a href="mailto:adibayuluthfiansyah@gmail.com">📩 Email</a> •
-  <a href="https://instagram.com/adibayuluthfiansyah">📷 Instagram</a>
+  <a href="https://www.adibayuluthfiansyah.dev">Portfolio</a> •
+  <a href="mailto:adibayuluthfiansyah@gmail.com">Email</a> •
+  <a href="https://instagram.com/adibayuluthfiansyah">Instagram</a>
 </p>
 
 </div>
