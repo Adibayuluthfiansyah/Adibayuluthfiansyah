@@ -29,7 +29,7 @@ I'm a developer focused on building **scalable and impactful applications** - no
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,nodejs,nest,prisma,tailwind,docker,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,git" />
 
 </div>
 
