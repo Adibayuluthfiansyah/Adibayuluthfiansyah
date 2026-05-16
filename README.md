@@ -27,7 +27,7 @@ I'm a fullstack engineer focused on shipping **production-ready** web products -
 
 ## Featured Projects
 
-### 🧾 Invoice SaaS
+### Invoice SaaS
 > Multi-tenant invoicing platform for freelancers and SMEs
 
 Full-stack SaaS with auth, PDF generation, Midtrans payment gateway, automated email reminders, and CRM-lite customer management. Containerized with Docker for production deployment.
@@ -38,7 +38,7 @@ Full-stack SaaS with auth, PDF generation, Midtrans payment gateway, automated e
 
 ---
 
-### 📡 RAWVE — Live Streaming Platform
+### RAWVE — Live Streaming Platform
 > Creator monetization platform with real-time interaction
 
 Full-stack platform built for live streaming, WebSocket-based real-time chat, creator analytics dashboard, and monetization system. Go microservice backend paired with a Next.js frontend.
@@ -49,14 +49,15 @@ Full-stack platform built for live streaming, WebSocket-based real-time chat, cr
 
 ---
 
-### 🏛️ Government Document Dashboard
-> Role-based document management system for a government social agency
+### DRAV — AI-Integrated E-Commerce Platform
 
-Replaced manual document workflows with a secure, auditable dashboard. Implemented protected routes, real-time upload tracking, and activity logging aligned with government-level data security requirements.
+> Premium marketplace with AI-assisted product discovery and full transactional flow
 
-**Stack**: Next.js · TypeScript · Role-based Access Control · Audit Logging
+Full-stack e-commerce platform connecting buyers and sellers. Backend handles Google OAuth, JWT auth, product catalog with pagination and filtering, Cloudinary image uploads, cart management with stock validation, and transactional checkout with atomic stock deduction. Frontend delivers a minimalist storefront with AI-powered relevance ranking, personalized curation sections, and a complete purchase flow from search to checkout.
 
-*Delivered at Dinas Sosial Kabupaten Kubu Raya, Pontianak*
+**Stack**: Next.js 16 · TypeScript · Tailwind CSS · Go · PostgreSQL · Cloudinary · Google OAuth · Swagger
+
+🔗 [Backend](https://github.com/morning-glorys/drav-backend) · [Frontend](https://github.com/morning-glorys/drav-frontend)
 
 
 ---
