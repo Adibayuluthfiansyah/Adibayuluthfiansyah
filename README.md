@@ -53,7 +53,7 @@ Full-stack platform built for live streaming, WebSocket-based real-time chat, cr
 
 > Premium marketplace with AI-assisted product discovery and full transactional flow
 
-Full-stack e-commerce platform connecting buyers and sellers. Backend handles Google OAuth, JWT auth, product catalog with pagination and filtering, Cloudinary image uploads, cart management with stock validation, and transactional checkout with atomic stock deduction. Frontend delivers a minimalist storefront with AI-powered relevance ranking, personalized curation sections, and a complete purchase flow from search to checkout
+Full-stack e-commerce platform connecting buyers and sellers. Backend handles Google OAuth, JWT auth, product catalog with pagination and filtering, Cloudinary image uploads, cart management with stock validation, and transactional checkout with atomic stock deduction. Frontend delivers a minimalist storefront with AI-powered relevance ranking, personalized curation sections, and a complete purchase flow from search to checkout.
 
 **Stack**: Next.js 16 · TypeScript · Tailwind CSS · Go · PostgreSQL · Cloudinary · Google OAuth · Swagger
 
