@@ -30,10 +30,5 @@ I'm a fullstack engineer focused on shipping **production-ready** web products -
 
 ## Open for Work
 
-I'm available for **remote freelance projects** and **full-time remote roles** in:
-
-- Fullstack web development (Next.js + Go)
-- Frontend (Next.js)
-- Backend (Go)
-
+I'm available for **remote freelance projects** and **full-time remote**
 **Let's talk**: [adibayuluthfiansyah@gmail.com](mailto:adibayuluthfiansyah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adibayuluthfiansyah/)
