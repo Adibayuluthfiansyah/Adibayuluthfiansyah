@@ -1,6 +1,6 @@
 <div align="center">
 
-# Adibayu Luthfiansyah Setyawan
+# Welcome To My Github!
 
 **Fullstack Dev**
 
@@ -19,16 +19,16 @@ I'm a fullstack engineer focused on shipping **production-ready** web products -
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats-seven-beta-39.vercel.app/api?username=Adibayuluthfiansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats-seven-beta-39.vercel.app/api/top-langs/?username=Adibayuluthfiansyah&layout=compact&hide_border=true&theme=tokyonight" height="170" />
-</div>
+**Frontend:** TypeScript, JavaScript, Next.Js, React, TailwindCSS<br>
+**Backend:** Go, Python<br>
+**Database:** PostgreSQL<br>
+**DevOps & OS:** Docker, Nginx, Linux, Git
 
 ---
 
 ## Open for Work
 
-I'm available for **remote freelance projects** and **full-time remote**
+I'm available for **remote freelance projects** and **full-time remote**.<br>
 **Let's talk**: [adibayuluthfiansyah@gmail.com](mailto:adibayuluthfiansyah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adibayuluthfiansyah/)
