@@ -23,7 +23,7 @@ I'm a fullstack engineer focused on shipping **production-ready** web products -
 
 **Frontend:** TypeScript, JavaScript, Next.Js, React, TailwindCSS<br>
 **Backend:** Go, Python<br>
-**Database:** PostgreSQL<br>
+**Database:** PostgreSQL, MySQL<br>
 **DevOps & OS:** Docker, Nginx, Linux, Git
 
 ---
