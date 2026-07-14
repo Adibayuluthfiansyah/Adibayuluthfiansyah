@@ -1,8 +1,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top"><img src="./adiba-ascii.svg" width="370" alt="Adibayu Luthfiansyah — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Adibayu Luthfiansyah — experience, stack, highlights" /></td>
+<td><img src="./adiba-ascii.svg" width="370" alt="Adibayu Luthfiansyah — ASCII portrait" /></td>
+<td><img src="./info-card.svg" width="490" alt="Adibayu Luthfiansyah — experience, stack, highlights" /></td>
 </tr>
 </table>
 
