@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="./adiba-ascii.svg" width="370" alt="Adibayu Luthfiansyah — ASCII portrait" /></td>
-<td><img src="./info-card.svg" width="490" alt="Adibayu Luthfiansyah — experience, stack, highlights" /></td>
+<td><img src="./adiba-ascii.svg?v=2" width="370" alt="Adibayu Luthfiansyah — ASCII portrait" /></td>
+<td><img src="./info-card.svg?v=2" width="490" alt="Adibayu Luthfiansyah — experience, stack, highlights" /></td>
 </tr>
 </table>
 
